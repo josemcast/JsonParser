@@ -1,0 +1,20 @@
+{
+  "title" : "Test config json",
+  "small array" : [ 
+    0,
+    101,
+    998
+  ],
+  "test": ["Update 01", ["Update 02-1", "Update 02-2"], {"inner": [1,2,3,4], "inner_status": true}],
+  "ndict": {
+    "title": "Sub-Config",
+    "inner_array": [
+      998,
+      999,
+      1000
+    ]
+  },
+  "status": [false, true, true, false],
+  "last_status": true,
+  "Empty": {}
+}
